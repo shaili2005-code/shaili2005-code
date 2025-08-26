@@ -4,12 +4,12 @@
   <img align="left" width="200px" src="https://user-images.githubusercontent.com/5842998/218005322-98481342-6683-4963-9566-3532d0755a5b.gif"/>
 </a>
 
-[cite_start]I am a motivated and detail-oriented Data Science student at **IIT Madras** with hands-on experience in building robust, data-driven web applications and turning data into clear, insight-driven reports. [cite: 1, 4]
+I am a motivated and detail-oriented Data Science student at **IIT Madras** with hands-on experience in building robust, data-driven web applications and turning data into clear, insight-driven reports.
 
-- [cite_start]🔭 I’m currently exploring impactful projects that leverage data handling and statistical concepts to support real-world decision-making. [cite: 6, 7]
-- [cite_start]🌱 I’m proficient in Python, SQL, and Power BI for data cleaning, EDA, and creating visualizations. [cite: 4, 5, 48]
-- 👯 I’m looking to collaborate on projects involving back-end development, data analysis, or machine learning.
-- [cite_start]📫 How to reach me: **shailinis256@gmail.com** [cite: 3]
+🔭 I’m currently exploring impactful projects that leverage data handling and statistical concepts to support real-world decision-making. [cite: 6, 7]
+🌱 I’m proficient in Python, SQL, and Power BI for data cleaning, EDA, and creating visualizations. [cite: 4, 5, 48]
+👯 I’m looking to collaborate on projects involving back-end development, data analysis, or machine learning.
+📫 How to reach me: **shailinis256@gmail.com** 
 
 ---
 
