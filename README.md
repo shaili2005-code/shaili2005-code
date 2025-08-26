@@ -30,16 +30,7 @@ My academic journey and project work have provided me with **hands-on experience
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaili2005-code&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats"/>
-</p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaili2005-code&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>  
-
----
 
 ## 🛠️ Featured Projects  
 
