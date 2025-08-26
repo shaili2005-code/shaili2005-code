@@ -2,9 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=200&section=header&text=Hi%20there!%20I'm%20Shaili%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Enthusiast;IIT+Madras+BS+Student;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=AI+%26+Data+Science+Enthusiast;IIT+Madras+BS+Student;Building+Impactful+Tech)](https://git.io/typing-svg)
+
 
 ---
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 🚀 About Me  
 ✨ Passionate **AI & Data Enthusiast** with strong foundations in **Data Science, Backend Development, and Analytics**.  
