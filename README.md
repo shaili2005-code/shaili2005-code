@@ -1,13 +1,13 @@
 # Hi there, I'm Shaili Nishad 👋
 
-<a href="https://linkedin.com/in/your-linkedin-username-here">
+<a href="https://www.linkedin.com/in/shaili-nishad-6262a2292/">
   <img align="left" width="200px" src="https://user-images.githubusercontent.com/5842998/218005322-98481342-6683-4963-9566-3532d0755a5b.gif"/>
 </a>
 
-[cite_start]I am a motivated and detail-oriented Data Science student at **IIT Madras** with hands-on experience in building robust, data-driven web applications and turning data into clear, insight-driven reports[cite: 4, 5, 10, 34].
+[cite_start]I am a motivated and detail-oriented Data Science student at **IIT Madras** with hands-on experience in building robust, data-driven web applications and turning data into clear, insight-driven reports. [cite: 1, 4]
 
-- [cite_start]🔭 I’m currently exploring impactful projects that leverage data handling and statistical concepts to support real-world decision-making[cite: 6, 7].
-- [cite_start]🌱 I’m proficient in Python, SQL, and Power BI for data cleaning, EDA, and creating visualizations[cite: 4, 5, 48].
+- [cite_start]🔭 I’m currently exploring impactful projects that leverage data handling and statistical concepts to support real-world decision-making. [cite: 6, 7]
+- [cite_start]🌱 I’m proficient in Python, SQL, and Power BI for data cleaning, EDA, and creating visualizations. [cite: 4, 5, 48]
 - 👯 I’m looking to collaborate on projects involving back-end development, data analysis, or machine learning.
 - [cite_start]📫 How to reach me: **shailinis256@gmail.com** [cite: 3]
 
@@ -44,28 +44,14 @@
 
 | Project | Key Features | Links |
 | :--- | :--- | :--- |
-| [cite_start]**Chatryx - AI-Powered Chat App** [cite: 25] | [cite_start]A full-stack AI chat application with PDF and general Q&A using the Gemini API (RAG)[cite: 26]. [cite_start]Features secure login with Flask and PostgreSQL [cite: 27][cite_start], Redis caching [cite: 28][cite_start], and a responsive frontend[cite: 29]. | [cite_start][**Live Demo**](https://chatryx.onrender.com/) [cite: 31] [cite_start]<br/> [**Source Code**](https://github.com/shaili2005-code/chatryx)  |
-| [cite_start]**Quiz Master - Role-Based Quiz App** [cite: 18] | [cite_start]A multi-user web app for students to take quizzes and track performance[cite: 19]. [cite_start]It includes role-based access control, performance dashboards [cite: 21][cite_start], secure password hashing, and full CRUD operations for quizzes[cite: 20, 22, 23]. | [cite_start][**Source Code**](https://github.com/23f2004466/Quiz_Master) [cite: 24] |
+| **Chatryx - AI-Powered Chat App** | [cite_start]A full-stack AI chat application with PDF and general Q&A using the Gemini API (RAG). [cite: 25, 26] [cite_start]Features secure login with Flask and PostgreSQL, [cite: 27] [cite_start]Redis caching, [cite: 28] [cite_start]and a responsive frontend. [cite: 29] | [cite_start][**Live Demo**](https://chatryx.onrender.com/) [cite: 31] [cite_start]<br/> [**Source Code**](https://github.com/shaili2005-code/chatryx) [cite: 32] |
+| **Quiz Master - Role-Based Quiz App** | [cite_start]A multi-user web app for students to take quizzes and track performance. [cite: 18, 19] [cite_start]It includes role-based access control, [cite: 20] [cite_start]performance dashboards, [cite: 21] [cite_start]secure password hashing, and full CRUD operations for quizzes. [cite: 22, 23] | [**Source Code**](https://github.com/23f2004466/Quiz_Master) |
 
 ---
 
 ### 📫 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username-here" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/shaili-nishad-6262a2292/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:shailinis256@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
-<!--
-**shaili2005-code/shaili2005-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
