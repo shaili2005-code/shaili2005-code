@@ -5,8 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=AI+%26+Data+Science+Enthusiast;IIT+Madras+BS+Student;Building+Impactful+Tech)](https://git.io/typing-svg)
 
 
----
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### 🚀 About Me  
