@@ -1,19 +1,16 @@
-# Hi there, I'm Shaili Nishad 👋  
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=200&section=header&text=Hi%20there!%20I'm%20Shaili%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-<a href="https://www.linkedin.com/in/shaili-nishad-6262a2292/">
-  <img align="right" width="200px" src="https://user-images.githubusercontent.com/5842998/218005322-98481342-6683-4963-9566-3532d0755a5b.gif"/>
-</a>  
-
-I am a motivated and detail-oriented **Data Science student at IIT Madras**, passionate about leveraging technology and data to solve real-world challenges.  
-My academic journey and project work have provided me with **hands-on experience in full-stack development, data analytics, and statistical modeling**, transforming raw data into **actionable insights and impactful applications**.  
-
-- 🔭 Currently exploring projects that combine **data science, backend engineering, and real-time systems**  
-- 🌱 Skilled in **Python, SQL, Power BI, and modern web technologies** for **EDA, visualization, and web app development**  
-- 👯 Open to collaborating on **data-driven applications, intelligent systems, and backend platforms**  
-- 📫 Reach me at **shailinis256@gmail.com**  
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Enthusiast;IIT+Madras+BS+Student;Building+Scalable+Systems)](https://git.io/typing-svg)
 
 ---
+
+### 🚀 About Me  
+✨ Passionate **AI & Data Enthusiast** with strong foundations in **Data Science, Backend Development, and Analytics**.  
+🎓 Pursuing **BS in Data Science from IIT Madras**.  
+🌱 Constantly exploring **machine learning, scalable systems, and impactful tech projects**.  
+
 
 ## 🚀 Languages & Tools  
 
