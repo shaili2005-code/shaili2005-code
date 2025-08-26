@@ -1,4 +1,5 @@
 # Hi there, I'm Shaili Nishad 👋  
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/shaili-nishad-6262a2292/">
   <img align="right" width="200px" src="https://user-images.githubusercontent.com/5842998/218005322-98481342-6683-4963-9566-3532d0755a5b.gif"/>
